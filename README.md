@@ -1,4 +1,4 @@
-## Hi every one . I'm Reza . 👋
+## Hi every one . 👋
 ## I’m currently working on design a pid temperature controller with very useful options .
 
 
